@@ -24,10 +24,4 @@
 		* ng-if  show something if that is true 
 		* ng-for do same for couple of times
 
-
-
-
-## Testing github to twitter interation
-
-
-## this is the second test of the github integration with twitter
+* checking the third commit from github to twitter
